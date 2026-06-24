@@ -9,7 +9,7 @@ title: Home
       <p class="section-label">Main Page</p>
       <p class="hero-kicker">User Name</p>
       <h2 class="display-name">Muhammad Awais</h2>
-      <p class="hero-username"><a href="https://awaisjutt78488-byte.github.io/">awaisjutt78488-byte.github.io</a></p>
+      <p class="hero-username"><a href="https://muhammad-awais-136.github.io/">muhammad-awais-136.github.io</a></p>
       <p class="hero-tagline">Computer Engineering Student</p>
       <p class="lead">Building a strong foundation in software, problem solving, and real-world project work with a clear focus on long-term growth.</p>
       <div class="hero-pill-list">

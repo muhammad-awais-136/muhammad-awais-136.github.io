@@ -26,11 +26,11 @@ permalink: /contact/
   </div>
   <div class="info-card">
     <h3>GitHub</h3>
-    <p><a href="https://github.com/awaisjutt78488-byte">github.com/awaisjutt78488-byte</a></p>
+    <p><a href="https://github.com/muhammad-awais-136">github.com/muhammad-awais-136</a></p>
   </div>
   <div class="info-card">
     <h3>Portfolio</h3>
-    <p><a href="https://awaisjutt78488-byte.github.io/">awaisjutt78488-byte.github.io</a></p>
+    <p><a href="https://muhammad-awais-136.github.io/">muhammad-awais-136.github.io</a></p>
   </div>
   <div class="info-card">
     <h3>Location</h3>
