@@ -37,38 +37,37 @@ title: Home
         </div>
       </div>
     </div>
-    <aside class="profile-summary-card">
-      <p class="section-label">Personal Details</p>
-      <h3>My Information</h3>
-      <div class="detail-card-grid">
-        <article class="detail-card">
-          <span class="detail-label">Identity</span>
-          <strong class="detail-title">Muhammad Awais</strong>
-          <span class="detail-value">Computer Engineering Student</span>
-        </article>
-        <article class="detail-card">
-          <span class="detail-label">Current City</span>
-          <strong class="detail-title">Faisalabad</strong>
-          <span class="detail-value">Pakistan</span>
-        </article>
-        <article class="detail-card">
-          <span class="detail-label">Home City</span>
-          <strong class="detail-title">Shorkot Cantt</strong>
-          <span class="detail-value">My hometown</span>
-        </article>
-        <article class="detail-card">
-          <span class="detail-label">Study Status</span>
-          <strong class="detail-title">2nd Semester</strong>
-          <span class="detail-value">Field: Computer Engineering</span>
-        </article>
-      </div>
-      <p class="profile-note">I currently live in Faisalabad for my studies while my hometown is Shorkot Cantt.</p>
-    </aside>
+    <figure class="feature-visual feature-visual--hero">
+      <img src="{{ '/assets/images/site/uet-gate-hero.jpg' | relative_url }}" alt="University of Engineering and Technology Lahore main gate" decoding="async" />
+      <figcaption>University of Engineering and Technology, Lahore.</figcaption>
+    </figure>
   </div>
 </section>
 
-<section class="content-card">
-  <p class="section-label">Overview</p>
-  <h2>What you will find here</h2>
-  <p>This homepage contains fixed personal information only. To read my writing and experiences, visit the Blog page where all post links are listed separately.</p>
+<section class="profile-summary-card content-card">
+  <p class="section-label">Personal Details</p>
+  <h3>My Information</h3>
+  <div class="detail-card-grid">
+    <article class="detail-card">
+      <span class="detail-label">Identity</span>
+      <strong class="detail-title">Muhammad Awais</strong>
+      <span class="detail-value">Computer Engineering Student</span>
+    </article>
+    <article class="detail-card">
+      <span class="detail-label">Current City</span>
+      <strong class="detail-title">Faisalabad</strong>
+      <span class="detail-value">Pakistan</span>
+    </article>
+    <article class="detail-card">
+      <span class="detail-label">Home City</span>
+      <strong class="detail-title">Shorkot Cantt</strong>
+      <span class="detail-value">My hometown</span>
+    </article>
+    <article class="detail-card">
+      <span class="detail-label">Study Status</span>
+      <strong class="detail-title">2nd Semester</strong>
+      <span class="detail-value">Field: Computer Engineering</span>
+    </article>
+  </div>
+  <p class="profile-note">I currently live in Faisalabad for my studies while my hometown is Shorkot Cantt.</p>
 </section>
