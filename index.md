@@ -39,7 +39,6 @@ title: Home
     </div>
     <figure class="feature-visual feature-visual--hero">
       <img src="{{ '/assets/images/site/uet-gate-hero.jpg' | relative_url }}" alt="University of Engineering and Technology Lahore main gate" decoding="async" />
-      <figcaption>University of Engineering and Technology, Lahore.</figcaption>
     </figure>
   </div>
 </section>
