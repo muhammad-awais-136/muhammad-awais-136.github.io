@@ -1,5 +1,5 @@
 ---
-title: "Staying Connected During Online Classes"
+title: "Online Classes and Learning"
 layout: post
 excerpt: "The war-related suspension of classes pushed us into online learning, and network problems made the semester harder than it should have been."
 image: /assets/images/posts/default-post-cover.svg

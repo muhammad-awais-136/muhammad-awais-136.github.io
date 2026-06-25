@@ -1,5 +1,5 @@
 ---
-title: "Learning Normalization and Linear Regression"
+title: "Normalization and Linear Regression"
 layout: post
 excerpt: "Dr. Bilal Ahmad taught us normalization and linear regression in a way that tied database structure and machine learning together naturally."
 image: /assets/images/posts/default-post-cover.svg

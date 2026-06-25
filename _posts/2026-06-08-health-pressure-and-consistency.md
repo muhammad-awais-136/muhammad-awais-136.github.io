@@ -1,5 +1,5 @@
 ---
-title: "Health Pressure and Staying Consistent"
+title: "Health and Consistency"
 layout: post
 excerpt: "Even with poor health, late nights, and a crowded schedule, I kept returning to practice because consistency mattered more than comfort."
 image: /assets/images/posts/default-post-cover.svg

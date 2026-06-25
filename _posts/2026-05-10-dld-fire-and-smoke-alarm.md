@@ -1,5 +1,5 @@
 ---
-title: "Fire and Smoke Alarm Project in DLD"
+title: "DLD Fire and Smoke Alarm"
 layout: post
 excerpt: "The DLD lab project became another reminder that hardware logic, testing, and patience all matter when you are building a working system."
 image: /assets/images/posts/default-post-cover.svg

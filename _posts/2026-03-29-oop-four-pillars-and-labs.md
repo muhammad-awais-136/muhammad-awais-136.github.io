@@ -1,5 +1,5 @@
 ---
-title: "OOP Four Pillars, Labs, and Practice"
+title: "OOP Four Pillars"
 layout: post
 excerpt: "Object-Oriented Programming pushed me through the four pillars, fourteen labs, and two projects that tested both patience and practical skill."
 image: /assets/images/posts/default-post-cover.svg
