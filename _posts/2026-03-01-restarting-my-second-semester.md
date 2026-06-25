@@ -1,5 +1,5 @@
 ---
-title: "Restarting My Second Semester"
+title: "A Stronger Start to Second Semester"
 layout: post
 excerpt: "My second semester began with a C grade in programming, but it also gave me a clear reason to push harder and rebuild my routine."
 image: /assets/images/posts/second-semester-journey.svg

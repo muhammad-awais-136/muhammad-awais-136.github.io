@@ -1,5 +1,5 @@
 ---
-title: "CKD Predictor Database Project"
+title: "A CKD Predictor Project from Database Lab"
 layout: post
 excerpt: "My database lab project turned into a practical machine learning task when I used a Kaggle dataset to predict chronic kidney disease."
 image: /assets/images/posts/default-post-cover.svg

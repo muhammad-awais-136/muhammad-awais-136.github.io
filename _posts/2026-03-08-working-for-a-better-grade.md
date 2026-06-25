@@ -1,5 +1,5 @@
 ---
-title: "Working for a Better Grade"
+title: "Building Discipline for a Better Grade"
 layout: post
 excerpt: "After my first-semester C grade, I changed my routine and started treating every class, every practice session, and every day more seriously."
 image: /assets/images/posts/default-post-cover.svg

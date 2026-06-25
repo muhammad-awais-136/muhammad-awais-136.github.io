@@ -1,5 +1,5 @@
 ---
-title: "Final Week Before Exams"
+title: "The Hardest Week Before Final Exams"
 layout: post
 excerpt: "The final week before exams was the hardest part of my second semester because quizzes, labs, and deadlines all arrived together."
 image: /assets/images/posts/default-post-cover.svg

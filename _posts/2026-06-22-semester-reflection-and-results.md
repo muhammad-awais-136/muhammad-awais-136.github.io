@@ -1,5 +1,5 @@
 ---
-title: "Semester Reflection and Results"
+title: "What My Second Semester Taught Me"
 layout: post
 excerpt: "My second semester taught me a lot in a short time, and when I look back now, I can see how every struggle shaped my progress."
 image: /assets/images/posts/default-post-cover.svg

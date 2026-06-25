@@ -1,5 +1,5 @@
 ---
-title: "University Admission System Project"
+title: "Designing a University Admission System"
 layout: post
 excerpt: "My OOP admission system project helped me see how course concepts can become an organized software design instead of just a class exercise."
 image: /assets/images/posts/default-post-cover.svg

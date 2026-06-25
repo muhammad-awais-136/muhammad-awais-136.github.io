@@ -1,5 +1,5 @@
 ---
-title: "Brick Breaker Game Project"
+title: "Building a Brick Breaker Game in Python"
 layout: post
 excerpt: "Building a 2D brick-breaker game in Python gave me a real sense of how fun and discipline can exist together in a coding project."
 image: /assets/images/posts/default-post-cover.svg
