@@ -38,22 +38,10 @@ title: Home
       </div>
     </div>
     <figure class="feature-visual feature-visual--hero">
-      <img src="{{ '/assets/images/site/uet-logo-large.png' | relative_url }}" alt="University of Engineering and Technology Lahore logo" decoding="async" />
+      <img src="{{ '/assets/images/site/uet-gate-hero.jpg' | relative_url }}" alt="University of Engineering and Technology Lahore main gate" decoding="async" />
       <figcaption>University of Engineering and Technology, Lahore.</figcaption>
     </figure>
   </div>
-</section>
-
-<section class="media-panel">
-  <div class="content-card media-copy media-copy--cool">
-    <p class="section-label">Campus Signal</p>
-    <h2>University of Engineering and Technology, Lahore</h2>
-    <p>The logo above makes the university name visible immediately, and the campus image keeps the page connected to the place where this journey began.</p>
-  </div>
-  <figure class="feature-visual">
-    <img src="{{ '/assets/images/site/uet-main-block.jpg' | relative_url }}" alt="University of Engineering and Technology Lahore main block" loading="lazy" decoding="async" />
-    <figcaption>UET Lahore main block.</figcaption>
-  </figure>
 </section>
 
 <section class="profile-summary-card content-card">
