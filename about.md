@@ -9,6 +9,7 @@ permalink: /about/
   <h2>About Me</h2>
   <p>I am Muhammad Awais, a Computer Engineering student who is learning step by step through practice, discipline, and patience.</p>
   <p>I am basically from Shorkot Cantt, and I started this journey without a strong programming background, but I kept moving forward by studying consistently and learning from each challenge.</p>
+  <p>I completed my matriculation and ICS from Chenab College, Shorkot City, and I secured 1029 marks, which became an important part of my academic background.</p>
 </section>
 
 <section class="media-panel">
@@ -31,6 +32,8 @@ permalink: /about/
       <li>Name: Muhammad Awais</li>
       <li>City: Shorkot Cantt</li>
       <li>Current Study City: Faisalabad</li>
+      <li>Matriculation and ICS: Chenab College, Shorkot City</li>
+      <li>Marks: 1029</li>
     </ul>
   </div>
   <div class="info-card">
@@ -45,10 +48,10 @@ permalink: /about/
   <div class="info-card">
     <h3>Skills I Am Building</h3>
     <ul>
-      <li>Python programming</li>
-      <li>Logical thinking and problem solving</li>
-      <li>Small project development</li>
-      <li>Study discipline and consistency</li>
+      <li>OOP pillars and complete C# concepts</li>
+      <li>Communication skills through presentations</li>
+      <li>DLD circuits for future electronic products</li>
+      <li>Logical thinking, problem solving, and discipline</li>
     </ul>
   </div>
 </section>
