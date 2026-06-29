@@ -11,6 +11,6 @@ I liked this project because it forced me to think about movement, collision, an
 
 There were moments when the code worked badly and I had to go back again and again to fix it. Even then, I did not dislike the process. I learned that a project becomes memorable when it challenges you enough to make the final result feel earned.
 
-Dr. Bilal Ahmad’s teaching style helped here as well, because he does not only care about theory. He keeps pushing students toward practical understanding, and that mindset made it easier for me to stay focused while building the project. It is one thing to hear that a concept is useful, and another thing to feel that usefulness while making something yourself.
+Mam Rimsha’s guidance helped here as well, because she did not only care about theory. She kept pushing students toward practical understanding, and that mindset made it easier for me to stay focused while building the project. It is one thing to hear that a concept is useful, and another thing to feel that usefulness while making something yourself.
 
 When the game finally worked properly, I felt that I had built something real. That feeling is important to me because it reminds me why I keep learning programming in the first place. #MLwithDrBilalAhmad #DrBilalAhmad #MLProject
