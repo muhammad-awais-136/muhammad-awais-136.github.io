@@ -20,14 +20,14 @@ permalink: /projects/
   <div class="project-grid">
     <article class="project-card">
       <figure class="project-visual">
-        <img src="{{ '/assets/images/site/uet-library.jpg' | relative_url }}" alt="UET Library building" loading="lazy" decoding="async" />
+        <img src="{{ '/assets/images/site/kidney-disease-predictor.png' | relative_url }}" alt="Kidney Disease Predictor interface" loading="lazy" decoding="async" />
       </figure>
       <div class="project-copy">
         <p class="project-kicker">Database Systems + Machine Learning</p>
-        <h3>Chronic Kidney Disease Predictor</h3>
-        <p>I used a Kaggle dataset with important medical features, trained a logistic regression classifier, and connected the model through a FastAPI backend. This was the project where database work and ML came together in a practical way.</p>
+        <h3>Kidney Disease Predictor</h3>
+        <p>I used a Kaggle dataset with important medical features, trained the model for disease prediction, and connected the backend so the interface could work like a proper CKD early detection system.</p>
         <div class="project-link-row">
-          <a class="read-more" href="{{ '/assets/reports/ckd-project-report.pdf' | relative_url }}" target="_blank" rel="noopener">Project Report</a>
+          <a class="read-more" href="{{ '/assets/projects/ml/kidney-disease-project-report.docx' | relative_url }}" target="_blank" rel="noopener">Project Report</a>
           {% if ckd_post %}<a class="read-more" href="{{ ckd_post.url | relative_url }}">Project Write-up</a>{% endif %}
         </div>
       </div>
