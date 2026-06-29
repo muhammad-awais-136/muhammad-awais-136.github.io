@@ -13,4 +13,4 @@ There were moments when the code worked badly and I had to go back again and aga
 
 Mam Rimsha’s guidance helped here as well, because she did not only care about theory. She kept pushing students toward practical understanding, and that mindset made it easier for me to stay focused while building the project. It is one thing to hear that a concept is useful, and another thing to feel that usefulness while making something yourself.
 
-When the game finally worked properly, I felt that I had built something real. That feeling is important to me because it reminds me why I keep learning programming in the first place. #MLwithDrBilalAhmad #DrBilalAhmad #MLProject
+When the game finally worked properly, I felt that I had built something real. That feeling is important to me because it reminds me why I keep learning programming in the first place. #OOPProject #MamRimsha #BrickBreakerGame
