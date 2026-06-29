@@ -11,7 +11,7 @@ permalink: /projects/
 <section class="content-card">
   <p class="section-label">Projects</p>
   <h2>Semester Level Projects</h2>
-  <p>This section keeps my semester projects together so the ML, OOP, and future DLD work stays separate from the blog archive. Each card links to the project write-up and the original file when it is available.</p>
+  <p>This section keeps my semester projects together so the ML, OOP, and DLD work stays separate from the blog archive. ML was taught by Dr. Bilal Ahmad, OOP projects were guided by Mam Rimsha, and DLD was taught by Sir Abdullah Bilal. Each card links to the project write-up and the original file when it is available.</p>
 </section>
 
 <section class="content-card project-section">
@@ -38,6 +38,7 @@ permalink: /projects/
 <section class="content-card project-section">
   <p class="section-label">2nd Semester</p>
   <h2>Object-Oriented Programming Projects</h2>
+  <p class="project-teacher-note">These projects were taught and guided by Mam Rimsha.</p>
   <div class="project-grid">
     <article class="project-card">
       <figure class="project-visual">
@@ -73,17 +74,21 @@ permalink: /projects/
 </section>
 
 <section class="content-card project-section">
-  <p class="section-label">Coming Next</p>
+  <p class="section-label">3rd Semester</p>
   <h2>Digital Logic Design Project</h2>
+  <p class="project-teacher-note">This project was taught by Sir Abdullah Bilal.</p>
   <div class="project-grid">
-    <article class="project-card project-card--future">
+    <article class="project-card">
       <figure class="project-visual">
         <img src="{{ '/assets/images/site/uet-electrical-engineering.jpg' | relative_url }}" alt="UET Electrical Engineering building" loading="lazy" decoding="async" />
       </figure>
       <div class="project-copy">
         <p class="project-kicker">DLD</p>
-        <h3>Project files coming soon</h3>
-        <p>I will add the DLD project here once the files are ready, so all semester projects can stay organized in one place.</p>
+        <h3>Fire and Smoke Alarm</h3>
+        <p>This DLD project was taught by Sir Abdullah Bilal and focused on a practical alarm system design. I kept the report here so the project section stays complete and easy to follow.</p>
+        <div class="project-link-row">
+          <a class="read-more" href="{{ '/assets/projects/dld/dld-project-report.docx' | relative_url }}" target="_blank" rel="noopener">Project Report</a>
+        </div>
       </div>
     </article>
   </div>
