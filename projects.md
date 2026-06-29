@@ -57,7 +57,7 @@ permalink: /projects/
 
     <article class="project-card">
       <figure class="project-visual">
-        <img src="{{ '/assets/images/site/uet-convocation-hall.jpg' | relative_url }}" alt="UET Convocation Hall" loading="lazy" decoding="async" />
+        <img src="{{ '/assets/images/site/brick-breaker-game.png' | relative_url }}" alt="Brick Breaker game screen" loading="lazy" decoding="async" />
       </figure>
       <div class="project-copy">
         <p class="project-kicker">OOP GUI Project</p>
