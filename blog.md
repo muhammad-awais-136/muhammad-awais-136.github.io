@@ -7,7 +7,7 @@ permalink: /blog/
 <section class="content-card">
   <p class="section-label">Blog</p>
   <h2>My Journey Folders</h2>
-  <p>This page groups my computer engineering journey into semester folders. Open a folder to see only the related posts on the same page.</p>
+  <p>This page groups my computer engineering journey into semester folders. Open a folder to see only the related posts on the same page. Project write-ups now live in the Projects section.</p>
 </section>
 
 <section class="media-panel">
@@ -22,21 +22,8 @@ permalink: /blog/
   </figure>
 </section>
 
-<section class="content-card project-feature">
-  <p class="section-label">Featured Project</p>
-  <h2>Chronic Kidney Disease Predictor</h2>
-  <p>This project grew out of my Database Systems lab work and turned into a practical machine learning build. I used a small Kaggle dataset with 24 records, selected important features, trained a logistic regression classifier, and connected it through a FastAPI backend so the model could work like a simple service.</p>
-  <div class="project-details">
-    <span>Dataset driven</span>
-    <span>Logistic regression</span>
-    <span>FastAPI backend</span>
-    <span>Almost 90% accuracy</span>
-  </div>
-  <a class="read-more project-report-link" href="{{ '/assets/reports/ckd-project-report.pdf' | relative_url }}" target="_blank" rel="noopener">Project Report</a>
-</section>
-
 {% assign semester_1_slugs = "my-goal-to-join-uet,first-semester-subjects,no-programming-background,difficulty-in-learning,my-effort-and-consistency,first-semester-result,my-first-semester-journey,my-current-mindset,my-future-goals" | split: "," %}
-{% assign semester_2_slugs = "restarting-my-second-semester,working-for-a-better-grade,normalization-and-linear-regression,online-classes-and-staying-connected,oop-four-pillars-and-labs,university-admission-system-project,brick-breaker-game-project,ckd-predictor-database-project,dld-fire-and-smoke-alarm,final-week-before-exams,health-pressure-and-consistency,semester-reflection-and-results" | split: "," %}
+{% assign semester_2_slugs = "restarting-my-second-semester,working-for-a-better-grade,normalization-and-linear-regression,online-classes-and-staying-connected,oop-four-pillars-and-labs,dld-fire-and-smoke-alarm,final-week-before-exams,health-pressure-and-consistency,semester-reflection-and-results" | split: "," %}
 {% assign life_slugs = "moving-from-shorkot-to-faisalabad,hostel-life-challenges,adjusting-to-hostel-life" | split: "," %}
 
 {% assign semester_1_count = 0 %}

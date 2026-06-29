@@ -254,31 +254,64 @@ a
 .media-copy h2
   margin-top: 0
 
-.project-feature
+.project-section
   margin-bottom: 1.25rem
 
-.project-feature h2
+.project-section h2
   margin-top: 0
 
-.project-details
+.project-grid
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
+  gap: 1rem
+  margin-top: 1rem
+
+.project-card
+  overflow: hidden
+  border-radius: 24px
+  border: 1px solid rgba(116, 50, 13, 0.12)
+  background: rgba(255, 255, 255, 0.8)
+  box-shadow: 0 12px 34px rgba(55, 35, 15, 0.07)
+
+.project-card--future
+  opacity: .9
+
+.project-visual
+  margin: 0
+  overflow: hidden
+  background: rgba(251, 246, 238, 0.92)
+
+.project-visual img
+  display: block
+  width: 100%
+  aspect-ratio: 16 / 9
+  object-fit: cover
+
+.project-copy
+  padding: 1.15rem
+
+.project-copy h3
+  margin: .2rem 0 .65rem
+  font-size: 1.45rem
+  line-height: 1.12
+
+.project-kicker
+  margin: 0
+  text-transform: uppercase
+  letter-spacing: .16em
+  font-size: .75rem
+  font-weight: 800
+  color: var(--accent)
+
+.project-copy p
+  margin-top: 0
+  color: var(--muted)
+
+.project-link-row
   display: flex
   flex-wrap: wrap
-  gap: .6rem
-  margin: 1rem 0 1.25rem
-
-.project-details span
-  display: inline-flex
-  align-items: center
-  padding: .45rem .75rem
-  border-radius: 999px
-  background: rgba(22, 116, 200, 0.08)
-  border: 1px solid rgba(22, 116, 200, 0.14)
-  color: #1f5f99
-  font-size: .9rem
-  font-weight: 700
-
-.project-report-link
-  margin-top: .25rem
+  gap: .55rem
+  margin-top: 1rem
 
 .feature-visual
   margin: 0
