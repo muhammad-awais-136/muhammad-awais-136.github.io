@@ -80,7 +80,7 @@ permalink: /projects/
   <div class="project-grid">
     <article class="project-card">
       <figure class="project-visual">
-        <img src="{{ '/assets/images/site/uet-electrical-engineering.jpg' | relative_url }}" alt="UET Electrical Engineering building" loading="lazy" decoding="async" />
+        <img src="{{ '/assets/images/site/dld-fire-smoke-alarm.jpeg' | relative_url }}" alt="Arduino fire and smoke alarm circuit" loading="lazy" decoding="async" />
       </figure>
       <div class="project-copy">
         <p class="project-kicker">DLD</p>
